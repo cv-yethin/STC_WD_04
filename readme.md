@@ -4,7 +4,7 @@
 
 A clean, minimal todo application built with pure vanilla JavaScript, HTML, and CSS.
 
-[**Live Demo →**](https://todo-vanilla-js-roan-xi.vercel.app)
+[**Live Demo →**]()
 
 ![HTML](https://img.shields.io/badge/HTML-11%25-orange?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-39.7%25-blue?style=flat-square)
@@ -84,10 +84,6 @@ todo-vanilla-js/
 - Responsive CSS design principles
 - No framework dependency
 
-## 🌐 Live Demo
-
-Check out the live version: [**todo-vanilla-js.vercel.app**](https://todo-vanilla-js-roan-xi.vercel.app)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
@@ -104,9 +100,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Gagan J**
+**C V YETHIN**
 
-- GitHub: [@gagan-j](https://github.com/gagan-j)
+- GitHub: [@cv-yethin](https://github.com/cv-yethin/)
 
 ---
 
