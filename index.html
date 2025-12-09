@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do App</title>
+
+    <!-- google fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Momo+Trust+Display&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Momo+Trust+Display&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="96x96"
+      href="https://img.icons8.com/?size=200&id=uN2rDhXyvexM&format=png"
+    />
+
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="main">
+      <h3>To-Do App</h3>
+
+      <!-- progresss Bar-->
+      <div class="main__progressBar">
+        <div class="progressBar__left">
+          <h4>Push Hard..</h4>
+          <div class="wrapper">
+            <div class="pb_bar"></div>
+            <div class="pb_bar_upr"></div>
+          </div>
+        </div>
+        <div class="progressBar__right">
+          <span class="len">0</span>/<span class="tot">0</span>
+        </div>
+      </div>
+
+      <!-- add task-->
+      <div class="main__add">
+        <input
+          class="input_box"
+          type="text"
+          placeholder="Add a new task..."
+          spellcheck="false"
+        />
+        <div class="add_task">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="white">
+            <path
+              d="M12 5v14m-7-7h14"
+              stroke="white"
+              stroke-width="2"
+              stroke-linecap="round"
+            />
+          </svg>
+        </div>
+      </div>
+
+      <!-- task list-->
+      <div class="footer">
+        <div class="no_task">No Task</div>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
