@@ -4,7 +4,7 @@
 
 A clean, minimal todo application built with pure vanilla JavaScript, HTML, and CSS.
 
-[**Live Demo →**]()
+[**Live Demo →**](stcwd04yethin-qrsxom8f6-yethins-projects-9df1a016.vercel.app)
 
 ![HTML](https://img.shields.io/badge/HTML-11%25-orange?style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-39.7%25-blue?style=flat-square)
